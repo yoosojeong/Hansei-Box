@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block movie_list %}
+    {% for MovieData in MovieDatas %}
+        <p> {{ MovieData }} </p>
+    {% endfor %}
+{% endblock  %}

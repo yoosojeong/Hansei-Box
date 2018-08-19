@@ -1,0 +1,10 @@
+HanseiBox/__pycache__/
+_movie/__pycache__/
+_seat/__pycache__/
+_theater/__pycache__/
+_user/__pycache__/
+_movie/migrations _seat/migrations _theater/migrations _user/migrations
+_movie/migrations
+_seat/migrations
+_theater/migrations
+_user/migrations
